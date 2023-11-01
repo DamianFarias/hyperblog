@@ -32,6 +32,11 @@ body
     font-size: 0.8em;
 }
 
+#cabecera #imagen
+{
+    width: 50px;
+}
+
 #container 
 {
     width: 70%;
