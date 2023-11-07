@@ -16,3 +16,6 @@ QUIERO LA LIBERTADORES
 Y UNA GALLINA MATAR
 
 ## Creado por el cocolizo
+Incluye ejemoplos en windows, linux y mac
+Disponible para todos 
+
